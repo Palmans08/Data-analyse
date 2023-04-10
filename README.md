@@ -23,7 +23,7 @@ ___
 	* Start MySQL
 	* Klik op de knop Admin en dan phpMyAdmin.
 
-2.	WAARSCHUWING als je starndaard XAMPP gebruikt.
+2.	WAARSCHUWING als je standaard XAMPP gebruikt.
 	* Controleer zeker na of er geen databank bestaat met als naam "vaccins".
 
 3.	Run het bestand "create_db_and_insert_data.py".
