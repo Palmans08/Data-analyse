@@ -29,6 +29,8 @@ ___
 3.	Run het bestand "create_db_and_insert_data.py".
 	* Het tabel geleverd zou 49 records moeten bevatten.
 	* Het tabel gezet zou 27795 records moeten bevatten.
+		* Reden van het bestand "create_db_and_insert_data.py" is omdat het csv bestand van gezet te groot is om te importeren in phpMyAdmin.
+		* De andere reden is omdat je 3 zaken moet uitvoeren, het manueel aanmaken van de databank en het importeren van de csv bestanden.
 ___
 ___
 
