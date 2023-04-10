@@ -1,8 +1,8 @@
 # Data-analyse
-Aantal voorbeelden van data-analyse gebaseerd op data van Covid-19.
+Aantal voorbeelden van data-analyse gebaseerd op data van Covid-19 (van 2020-12-28 t.e.m. 2021-05-18).
 
 ### Tools (Programma)
-XAMPP (testserver, databanken lokaal beheren)
+XAMPP (testserver, databanken lokaal beheren).
 
 ### Python modules
 * MariaDB 
@@ -19,10 +19,21 @@ ___
 ___
 # Voorbereiding
 1.	Start het programma XAMPP op.
-	*	Start Apache
+	* Start Apache
 	* Start MySQL
+	* Klik op de knop Admin en dan phpMyAdmin.
 
-2.	Run "create_db_and_insert_data.py"
-	* WAARSCHUWING als je XAMPP al gebruikt, let op dat je geen databank hebt genaamd "vaccins".
+2.	WAARSCHUWING als je starndaard XAMPP gebruikt.
+	* Controleer zeker na of er geen databank bestaat met als naam "vaccins".
 
-3. 
+3.	Run het bestand "create_db_and_insert_data.py".
+___
+___
+
+### Verwijderen van databank
+1.	Ga naar phpMyAdmin
+	* Server: 127.0.0.1
+	* SQL
+```
+DROP DATABASE vaccins;
+```
