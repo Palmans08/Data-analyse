@@ -32,6 +32,11 @@ ___
 		* Reden van het bestand "create_db_and_insert_data.py" is omdat het csv bestand van gezet te groot is om te importeren in phpMyAdmin.
 		* De andere reden is omdat je 3 zaken moet uitvoeren, het manueel aanmaken van de databank en het importeren van de csv bestanden.
 ___
+# Legende/uitleg DOSE
+* A = eerste dosis
+* B = tweede dosis
+* C = vereist één dosis (m.a.w. finale dosis, je kan het bezien als A + B)
+___
 ___
 
 ### Verwijderen van databank
