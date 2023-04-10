@@ -45,4 +45,4 @@ ___
 	* SQL
 ```
 DROP DATABASE vaccins;
-```.
+```
