@@ -5,6 +5,4 @@ Aantal voorbeelden van data-analyse gebaseerd op data van Covid-19.
 XAMPP (testserver, databanken lokaal beheren)
 
 # Python modules
-MariaDB
-NumPy
-Matplotlib
+MariaDB | NumPy | Matplotlib
