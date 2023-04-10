@@ -27,6 +27,8 @@ ___
 	* Controleer zeker na of er geen databank bestaat met als naam "vaccins".
 
 3.	Run het bestand "create_db_and_insert_data.py".
+	* Het tabel geleverd zou 49 records moeten bevatten.
+	* Het tabel gezet zou 27795 records moeten bevatten.
 ___
 ___
 
